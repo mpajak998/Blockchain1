@@ -1,0 +1,9 @@
+{
+    "Od_kogo": "test1",
+    "Do_kogo": "test1",
+    "Ilosc": "10000",
+    "poprzedni_blok": {
+        "hash": "fefd13b3604c35203505ecae55c66a8a1afddaeebd6561dbe472b199d7867abd",
+        "numer_bloku": "1"
+    }
+}
